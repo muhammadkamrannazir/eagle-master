@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "666475729583",
+    "project_id": "eagle-3eac9",
+    "storage_bucket": "eagle-3eac9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666475729583:android:4f9220ffb6878df38afa5a",
+        "android_client_info": {
+          "package_name": "com.example.eagle"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "666475729583-5lsqli9un7n4lcth3gfvj88qvtjmid2u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAt-4Wb1ZH09Q3gh8LiNxFI-rXOnx4AoJ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "666475729583-5lsqli9un7n4lcth3gfvj88qvtjmid2u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
